@@ -1,2 +1,2 @@
 # denimaniac-shop
-# ReactJS, NodeJS, MongoDB
+# ReactJS
